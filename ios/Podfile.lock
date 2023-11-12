@@ -941,7 +941,9 @@ PODS:
   - React-Mapbuffer (0.73.0-rc.3):
     - glog
     - React-debug
-  - react-native-skia (0.1.216):
+  - react-native-skia (0.1.218):
+    - glog
+    - RCT-Folly (= 2022.05.16.00)
     - React
     - React-callinvoker
     - React-Core
@@ -1322,7 +1324,7 @@ SPEC CHECKSUMS:
   React-jsinspector: 46c3df92de409e85a3646d9990f95a63267d73db
   React-logger: 4d7e6eff6f0ce843c2e1556e12c3f036807aa827
   React-Mapbuffer: f24a86cafcac5d74ca7db6fb0514c5a94d6ea5d6
-  react-native-skia: f4d52c69fd3534143365287d03db35270d7b09b7
+  react-native-skia: e80a039f02c6937e741e3f98e09afa2db687add6
   React-nativeconfig: b9cf6f3a5bfca7b1f694330a19e8a38855724330
   React-NativeModulesApple: b2d59e28b77c0cdda582dfb4a1da057d34446514
   React-perflogger: bc4beedce067adb4517fbf550b1d8dc6f5032dee
